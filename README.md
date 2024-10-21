@@ -1,4 +1,4 @@
-Smart Investment Advice - Part 1
+# Smart Investment Advice - Part 1
 This repository contains the initial part of the Smart Investment Advice project, which focuses on predicting future trends in the USD exchange rate and gold prices using time series analysis and machine learning models. The goal of this project is to provide insights into investment strategies based on historical financial data.
 
 Data
