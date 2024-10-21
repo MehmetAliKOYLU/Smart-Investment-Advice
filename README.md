@@ -11,4 +11,4 @@ Both datasets cover the period from 2005 to 2024 and contain daily closing price
 
 
 ### Contributors
-- [Yucel KANDAS](https://github.com/Yucel00) -
+- [Yucel KANDAS](https://github.com/Yucel00) 
