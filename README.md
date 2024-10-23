@@ -11,6 +11,7 @@ The data used in this project includes:
   
 Both datasets cover the period from 2005 to 2024 and contain daily closing prices. These datasets are publicly available and have been preprocessed for the purpose of this project.
 
+# Smart Investment Advice - Part 2
 
 
 ### Contributors
