@@ -12,7 +12,7 @@ The data used in this project includes:
 Both datasets cover the period from 2005 to 2024 and contain daily closing prices. These datasets are publicly available and have been preprocessed for the purpose of this project.
 
 # Smart Investment Advice - Part 2
-
+We selected the appropriate ML algorithm from the dataset that we set up and saved earlier in this part and got the best result. We preferred LSTM as an algorithm and drew the images tested with the algorithm.
 
 ### Contributors
 - [Yucel KANDAS](https://github.com/Yucel00) 
